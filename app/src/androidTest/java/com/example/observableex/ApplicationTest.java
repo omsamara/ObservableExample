@@ -1,4 +1,4 @@
-package com.ahurwitz.adamsobservableex;
+package com.example.observableex;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

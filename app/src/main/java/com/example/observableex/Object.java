@@ -1,4 +1,4 @@
-package com.ahurwitz.adamsobservableex;
+package com.example.observableex;
 
 /**
  * Created by ahurwitz on 5/5/16.

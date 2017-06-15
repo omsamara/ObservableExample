@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdamsObservableEx.iml" filepath="$PROJECT_DIR$/AdamsObservableEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObservableExample.iml" filepath="$PROJECT_DIR$/ObservableExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -1,4 +1,4 @@
-package com.ahurwitz.adamsobservableex;
+package com.example.observableex;
 
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;

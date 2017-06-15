@@ -1,4 +1,4 @@
-package com.ahurwitz.adamsobservableex;
+package com.example.observableex;
 
 import org.junit.Test;
 
